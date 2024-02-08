@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebApp2.Model/1.0.0": {
+        "runtime": {
+          "WebApp2.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApp2.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

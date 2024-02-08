@@ -1,0 +1,15 @@
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\bin\Debug\net8.0\WebApp2.DataAccessLayer.deps.json
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\bin\Debug\net8.0\WebApp2.DataAccessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\bin\Debug\net8.0\WebApp2.DataAccessLayer.pdb
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\bin\Debug\net8.0\WebApp2.Model.dll
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\bin\Debug\net8.0\WebApp2.Model.pdb
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.AssemblyInfoInputs.cache
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.AssemblyInfo.cs
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.csproj.CopyComplete
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\refint\WebApp2.DataAccessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\WebApp2.DataAccessLayer.pdb
+D:\ASP.NET\WebApp2\WebApp2.DataAccessLayer\obj\Debug\net8.0\ref\WebApp2.DataAccessLayer.dll

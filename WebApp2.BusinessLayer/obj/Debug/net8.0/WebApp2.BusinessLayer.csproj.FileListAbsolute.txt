@@ -1,0 +1,17 @@
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.BusinessLayer.deps.json
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.BusinessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.BusinessLayer.pdb
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.DataAccessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.Model.dll
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.DataAccessLayer.pdb
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\bin\Debug\net8.0\WebApp2.Model.pdb
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.csproj.AssemblyReference.cache
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.AssemblyInfoInputs.cache
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.AssemblyInfo.cs
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.csproj.CopyComplete
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\refint\WebApp2.BusinessLayer.dll
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\WebApp2.BusinessLayer.pdb
+D:\ASP.NET\WebApp2\WebApp2.BusinessLayer\obj\Debug\net8.0\ref\WebApp2.BusinessLayer.dll
